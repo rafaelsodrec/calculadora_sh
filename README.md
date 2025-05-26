@@ -1,5 +1,4 @@
 # calculadora_sh
-# Calculadora Bash
 
 Uma calculadora simples de terminal escrita em Bash, que permite realizar operações básicas como **adição**, **subtração**, **multiplicação** e **divisão** entre dois números.
 
@@ -12,16 +11,16 @@ Uma calculadora simples de terminal escrita em Bash, que permite realizar opera�
 - Interface interativa no terminal
 - Loop contínuo até o usuário decidir sair
 
-## Como usar 
+# Como usar 
 
-# Clone o repositório :
+## Clone o repositório :
 git clone https://github.com/seu-usuario/calculadora-bash.git
 cd calculadora-bash
 
-#Dê permissão de execução ao script:
+## Dê permissão de execução ao script:
 chmod +x calculadora.sh
 
-# Execute o script :
+## Execute o script :
 ./calculadora.sh
 
 
